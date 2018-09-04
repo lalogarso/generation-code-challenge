@@ -1,0 +1,10 @@
+.App {
+  margin: 15px;
+}
+
+.scroll {
+  height:700px;
+  overflow-y: scroll;
+}
+
+i { cursor: pointer; }
